@@ -2,7 +2,10 @@
 Design of a machine to measure the depth of a well.
 
 ## Current status
-The project is in step 1, i'm designing the 3d printed part to handle the electrodes and the weight.
+The project is in step 1, i'm designing the 3d structure for the final sensor.
+
+This is the Electrodes handler:
+![Electrodes Handler](docs/images/ElectrodesHandler.png)
 
 ## The problem
 We need to measure the depth of a shared well constantly in order to know the water level and avoid that the 120 user of the waterworks are without water.
